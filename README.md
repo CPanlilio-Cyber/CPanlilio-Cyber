@@ -50,10 +50,10 @@ Performed vulnerability scans against test systems to identify security weakness
 
 ---
 
-## Certifications (In Progress)
+## Certifications
 
 - CompTIA Security+
-- Google Cybersecurity Certificate
+- ITIL v4 Foundation
 
 ---
 
