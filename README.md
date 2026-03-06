@@ -1,5 +1,11 @@
 ## Hello< I'm Christian
 
+<h2>Connect With Me</h2>
+
+<a href="https://www.linkedin.com/in/christian-panlilio" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Christian%20Panlilio-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
 <!--
 **CPanlilio-Cyber/CPanlilio-Cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
