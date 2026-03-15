@@ -16,7 +16,7 @@ Focused on **threat detection, log analysis, and incident response** through han
 
 ## Core Skills
 
-- SIEM Monitoring (Splunk )
+- SIEM Monitoring (Splunk)
 - Log Analysis
 - Network Traffic Analysis
 - Threat Detection
