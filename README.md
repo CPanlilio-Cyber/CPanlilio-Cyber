@@ -2,7 +2,7 @@
 
 Aspiring Cybersecurity Analyst | SOC Analyst | Security Operations
 
-📍 United States  
+📍 New Braunfels, Texas  
 🔗 LinkedIn: https://www.linkedin.com/in/christian-panlilio  
 
 ---
